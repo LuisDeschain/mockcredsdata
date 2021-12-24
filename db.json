@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "category": "social media",
+        "name": "Twitter",
+        "username": "twitter@email.com",
+        "password": "1234twitter"
+    },
+    {
+        "id": 2,
+        "category": "social media",
+        "name": "Facebook",
+        "username": "facebook@email.com",
+        "password": "1234facebook"
+    },
+    {
+        "id": 3,
+        "category": "work",
+        "name": "Work PC",
+        "username": "workpc@email.com",
+        "password": "1234workpc"
+    },
+    {
+        "id": 4,
+        "category": "work",
+        "name": "CRM",
+        "username": "crm@email.com",
+        "password": "1234crm"
+    },
+    {
+        "id": 5,
+        "category": "personal",
+        "name": "Bank",
+        "username": "bank@email.com",
+        "password": "1234bank"
+    }
+]
